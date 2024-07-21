@@ -12,7 +12,10 @@ If you have any questions or would like to see more demos, feel free to leave a 
 
 [Watch the video](https://youtu.be/fWOoq6_N9nQ)
 
-[![Watch the video](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/watch?v=fWOoq6_N9nQD)
+
+<a href="https://youtu.be/fWOoq6_N9nQ" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="32" height="32" />
+</a>
 
 ## Turkish Description:
 Unreal Engine 5 ile yapılan karakter hareketi demoma hoş geldiniz! Bu videoda, ok atma, zıplama ve benzersiz bir dönme mekaniği gibi çeşitli hareketleri göstereceğim. Bu demo, Unreal Engine 5'in akıcı ve dinamik karakter hareketleri yaratma yeteneklerini vurgulamaktadır.

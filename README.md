@@ -2,7 +2,7 @@
 
 ![Ekran görüntüsü 2024-07-21 172133](https://github.com/user-attachments/assets/b976d53d-141d-4187-844a-41528b05c31d)
 
-<img src="[https://github.com/user-attachments/assets/b976d53d-141d-4187-844a-41528b05c31d](https://github.com/user-attachments/assets/b976d53d-141d-4187-844a-41528b05c31d)" alt="Demo Image" width="200" height="200" />
+<img src="https://github.com/user-attachments/assets/b976d53d-141d-4187-844a-41528b05c31d" alt="Demo Image" width="200" height="200" />
 
 
 ## English Description:

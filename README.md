@@ -10,11 +10,9 @@ Welcome to my Unreal Engine 5 character movement demo! In this video, I'll showc
 
 If you have any questions or would like to see more demos, feel free to leave a comment. Don't forget to like and subscribe for more Unreal Engine 5 content!
 
-[Watch the video](https://youtu.be/fWOoq6_N9nQ)
-
 
 <a href="https://youtu.be/fWOoq6_N9nQ" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="32" height="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="48" height="32" />
 </a>
 
 ## Turkish Description:

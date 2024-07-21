@@ -1,9 +1,6 @@
 # Unreal Engine 5 Archer Demo
 
-![Ekran görüntüsü 2024-07-21 172133](https://github.com/user-attachments/assets/b976d53d-141d-4187-844a-41528b05c31d)
-
-<img src="https://github.com/user-attachments/assets/b976d53d-141d-4187-844a-41528b05c31d" alt="Demo Image" width="200" height="200" />
-
+<img src="https://github.com/user-attachments/assets/b976d53d-141d-4187-844a-41528b05c31d" alt="Demo Image" width="400" height="400" />
 
 ## English Description:
 Welcome to my Unreal Engine 5 character movement demo! In this video, I'll showcase a variety of movements, including shooting an arrow, jumping, and a unique spinning mechanic. This demonstration highlights the capabilities of Unreal Engine 5 in creating fluid and dynamic character movements.
